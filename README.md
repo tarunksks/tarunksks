@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://1drv.ms/i/c/9b171a2fa1a54b36/EVXUNDouy5RLv5c2aAWScG8BU3VhRJJOg6rvu_sWV85-PQ?e=Z2Yap5">
-
 
 # 💫 About Me:
 🔭 I’m currently working on Python-based AI projects, focusing on developing machine learning algorithms and data analysis tools.<br>
