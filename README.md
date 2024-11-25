@@ -5,7 +5,7 @@
 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>💬 Ask me about Python, Flask, Django, and building real-time web applications.
 
 
-<h1># 💻 Tech Stack:</h1>
+# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 # 📊 GitHub Stats:
