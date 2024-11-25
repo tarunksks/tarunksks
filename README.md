@@ -4,10 +4,10 @@
 👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>💬 Ask me about Python, Flask, Django, and building real-time web applications.
 
-<center>
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  </center>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tarunksks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tarunksks&theme=dark&hide_border=false)<br/>
