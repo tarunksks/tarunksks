@@ -1,4 +1,4 @@
-<img src="https://github.blog/wp-content/uploads/2023/01/1200x640-2.png?fit=1200%2C640">
+
 # 💫 About Me:
 🔭 I’m currently working on Python-based AI projects, focusing on developing machine learning algorithms and data analysis tools.<br>
 👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
